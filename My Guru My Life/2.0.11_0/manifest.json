@@ -1,0 +1,17 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Keep satsang at the center of your life.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkGI00WDOnSoGRKDTzJXHkZZTUyxdobVDEYO7S2hMz/0SZXJrHiaZzDZVQSEpNu7Ev66q2/98sLKs9FBhqyh836mWp+qOd5ITr/PPiW+VlmZE+/Bay/nO1nSkcteE0340ctXIfNLAWxx+pp80uOlXKm6lQYRq3JAm1EYZbuoDmt6lemV6dQKTnhs0YjwDHKWHxZrS27V/okYt0a+BLKU/fWxuyGTgVHsm+2bufawxy6kpsvKgiaWZImja/pR+TBk5OJL17OeAd/Lr5/s0oJeWezIbVkJucSEbUd1HEZgODX2N9/sTX/KTOUFWawrHgLLrDzXOsKqtbNsoUAD7FHK+JwIDAQAB",
+   "manifest_version": 2,
+   "name": "My Guru My Life",
+   "permissions": [ "*://*/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.11"
+}
